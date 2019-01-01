@@ -173,8 +173,12 @@ p.Bee_Menutext_MeTherapy
 
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px)
 {
-    body.Bee_Body_MeTherapy
+    img.Bee_Logo_MeTherapy
     {
-        font-size:   10px;
+        position: absolute;
+        width: 60px;
+        left: 295px;
+        top: 430px;
+        z-index: -1;
     }
 }
