@@ -161,7 +161,6 @@ a.Bee_Button.MeTherapy_5
     z-index: 5;
 }
 
-
 p.Bee_Menutext_MeTherapy
 {
     position: absolute;
@@ -170,4 +169,12 @@ p.Bee_Menutext_MeTherapy
     width: 300px;
     z-index: 2;
     font-weight: bold;
+}
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px)
+{
+    body.Bee_Body_MeTherapy
+    {
+        font-size:   10px;
+    }
 }
