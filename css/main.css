@@ -35,6 +35,13 @@ img[src='']
     display: none;
 }
 
+img.metherapy_home_icon
+{
+    position: absolute;
+    width: 50px;
+    left: 300px;
+    top: 0px;
+}
 img.Bee_Title_MeTherapy
 {
     position: absolute;
@@ -168,6 +175,15 @@ p.Bee_Menutext_MeTherapy
     top: 105px;
     width: 300px;
     z-index: 2;
+    font-weight: bold;
+}
+
+p.metherapy_home_tekst
+{
+    position: absolute;
+    left: 339px;
+    top: -8px;
+    width: 300px;
     font-weight: bold;
 }
 
