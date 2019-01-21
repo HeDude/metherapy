@@ -187,6 +187,18 @@ p.metherapy_home_tekst
     font-weight: bold;
 }
 
+.rand
+{
+	border: 1px dotted #663366;
+}
+
+aside
+{
+    position: absolute;
+    left: 560px;
+    top: 350px;
+}
+
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px)
 {
     img.Bee_Logo_MeTherapy
