@@ -12,7 +12,7 @@ body.Bee_Body_MeTherapy
     background-repeat: no-repeat;
 }
 
-p.Bee_Copyright_MeTherapy
+p.metherapy_copyright
 {
     position: absolute;
     left: 350px;
@@ -20,7 +20,7 @@ p.Bee_Copyright_MeTherapy
     color: #FFFFFF;
 }
 
-p.Bee_Title_MeTherapy
+p.metherapy_title
 {
     position: absolute;
     left: 400px;
@@ -30,145 +30,7 @@ p.Bee_Title_MeTherapy
     font-weight: bold;
 }
 
-img[src='']
-{
-    display: none;
-}
-
-img.metherapy_home_icon
-{
-    position: absolute;
-    width: 50px;
-    left: 300px;
-    top: 0px;
-}
-img.Bee_Title_MeTherapy
-{
-    position: absolute;
-    width: 550px;
-    left: 400px;
-    top: 450px;
-}
-
-img.Bee_Logo_MeTherapy
-{
-    position: absolute;
-    width: 100px;
-    left: 280px;
-    top: 375px;
-    z-index: -1;
-}
-
-img.Bee_Foto_MeTherapy
-{
-    position: absolute;
-    width: 250px;
-    left: 700px;
-    top: 10px;
-    z-index: -1;
-}
-
-img.Bee_Contact_MeTherapy
-{
-    position: absolute;
-    width: 200px;
-    left: 40px;
-    top: 550px;
-    z-index: -1;
-}
-
-img.Bee_Menu_Left_MeTherapy_Border
-{
-    position: absolute;
-    width: 620px;
-    left: 0px;
-    top: -18px;
-    z-index: -1;
-    transition: all .2s ease-in-out;
-}
-
-img.Bee_Menu_Left_MeTherapy
-{
-    position: absolute;
-    width: 600px;
-    left: 0px;
-    top: 0px;
-    z-index: -1;
-    transition: all .2s ease-in-out;
-}
-
-img.Bee_Menu_Background
-{
-    position: absolute;
-    width: 600px;
-    left: 0px;
-    top: 0px;
-    z-index: 1;
-    transition: all .2s ease-in-out;
-}
-
-a.Bee_Button
-{
-    position: absolute;
-    display: inline-block;
-    text-decoration: none;
-    color: #EEDEE5;
-    font-weight: bold;
-    transition: all .2s ease-in-out;
-    height: 24px;
-}
-
-a.Bee_Button:hover
-{
-    transform: scale(1.1);
-}
-
-a.Bee_Button:active
-{
-    color: #FFFFFF;
-}
-
-a.Bee_Button img
-{
-    height:24px;
-}
-
-a.Bee_Button.MeTherapy_1
-{
-    left: 135px;
-    top: 30px;
-    z-index: 1;
-}
-
-a.Bee_Button.MeTherapy_2
-{
-    left: 135px;
-    top: 88px;
-    z-index: 2;
-}
-
-a.Bee_Button.MeTherapy_3
-{
-    left: 135px;
-    top: 146px;
-    z-index: 3;
-}
-
-a.Bee_Button.MeTherapy_4
-{
-    left: 135px;
-    top: 204px;
-    z-index: 4;
-}
-
-a.Bee_Button.MeTherapy_5
-{
-    left: 135px;
-    top: 262px;
-    z-index: 5;
-}
-
-p.Bee_Menutext_MeTherapy
+p.metherapy_menutext
 {
     position: absolute;
     left: 240px;
@@ -187,21 +49,161 @@ p.metherapy_home_tekst
     font-weight: bold;
 }
 
-.rand
+img[src='']
 {
-	border: 1px dotted #663366;
+    display: none;
+}
+
+img.metherapy_home_icon
+{
+    position: absolute;
+    width: 50px;
+    left: 300px;
+    top: 0px;
+}
+
+img.metherapy_title
+{
+    position: absolute;
+    width: 550px;
+    left: 400px;
+    top: 450px;
+}
+
+img.metherapy_logo
+{
+    position: absolute;
+    width: 100px;
+    left: 280px;
+    top: 375px;
+    z-index: -1;
+}
+
+img.metherapy_foto
+{
+    position: absolute;
+    width: 250px;
+    left: 700px;
+    top: 10px;
+    z-index: -1;
+}
+
+img.metherapy_contact
+{
+    position: absolute;
+    width: 200px;
+    left: 40px;
+    top: 550px;
+    z-index: -1;
+}
+
+img.metherapy_menu_left_Border
+{
+    position: absolute;
+    width: 620px;
+    left: 0px;
+    top: -18px;
+    z-index: -1;
+    transition: all .2s ease-in-out;
+}
+
+img.metherapy_menu_left
+{
+    position: absolute;
+    width: 600px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    transition: all .2s ease-in-out;
+}
+
+img.metherapy_menu_background
+{
+    position: absolute;
+    width: 600px;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    transition: all .2s ease-in-out;
+}
+
+a.metherapy_button
+{
+    position: absolute;
+    display: inline-block;
+    text-decoration: none;
+    color: #EEDEE5;
+    font-weight: bold;
+    transition: all .2s ease-in-out;
+    height: 24px;
+}
+
+a.metherapy_button:hover
+{
+    transform: scale(1.1);
+}
+
+a.metherapy_button:active
+{
+    color: #FFFFFF;
+}
+
+a.metherapy_button img
+{
+    height:24px;
+}
+
+a.metherapy_button.MeTherapy_1
+{
+    left: 135px;
+    top: 30px;
+    z-index: 1;
+}
+
+a.metherapy_button.MeTherapy_2
+{
+    left: 135px;
+    top: 88px;
+    z-index: 2;
+}
+
+a.metherapy_button.MeTherapy_3
+{
+    left: 135px;
+    top: 146px;
+    z-index: 3;
+}
+
+a.metherapy_button.MeTherapy_4
+{
+    left: 135px;
+    top: 204px;
+    z-index: 4;
+}
+
+a.metherapy_button.MeTherapy_5
+{
+    left: 135px;
+    top: 262px;
+    z-index: 5;
 }
 
 aside
 {
     position: absolute;
-    left: 560px;
+    left: 565px;
     top: 350px;
 }
 
+aside img.metherapy_rand
+{
+	border: 1px dotted #663366;
+}
+
+
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px)
 {
-    img.Bee_Logo_MeTherapy
+    img.metherapy_logo
     {
         position: absolute;
         width: 60px;

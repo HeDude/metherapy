@@ -2,15 +2,15 @@ $(document).ready
 (
 	function()
 	{
-		var fade_time_unit = 500;
+		var fade_time_unit = 300;
 		var fade_time      = 4 * fade_time_unit;
 		var i;
 		var j;
 
 		for (i = 1;i < 6; i++)
 		{
-			$("p#bee_menu_text_0"+i).fadeOut(0, "swing");
-		    $("img#bee_foto_meTherapy_0"+i ).fadeOut( 0, "swing" );
+			$("p#metherapy_menu_text0"+i).fadeOut(0, "swing");
+		    $("img#metherapy_foto0"+i ).fadeOut( 0, "swing" );
 			$("#bee_button_0"+i).click
 			(
 				{active_button: i},
@@ -21,20 +21,21 @@ $(document).ready
 					{
 						if ( j !== event.data.active_button )
 						{
-							$( "p#bee_menu_text_0" + j ).fadeOut( fade_time, "swing" );
-							$( "img#bee_foto_meTherapy_0" + j ).fadeOut( fade_time, "swing" );
+							$( "p#metherapy_menu_text0" + j ).fadeOut( fade_time, "swing" );
+							$( "img#metherapy_foto0" + j ).fadeOut( fade_time, "swing" );
 							$( "img#Letter_W_MeTherapy_0" + j ).attr( 'src', "images/Letter_W_MeTherapy.svg" );
 					        $( "a#bee_button_0" + j ).css( { "cursor": "pointer" } );
 						};
 					};
-					$( "p#bee_menu_text_0" + event.data.active_button ).fadeIn( fade_time, "swing" );
-					$( "img#bee_foto_meTherapy_0" + event.data.active_button ).fadeIn( fade_time, "swing" );
+					$( "p#metherapy_menu_text0" + event.data.active_button ).fadeIn( fade_time, "swing" );
+					$( "img#metherapy_foto0" + event.data.active_button ).fadeIn( fade_time, "swing" );
 				    $( "img#Letter_W_MeTherapy_0" + event.data.active_button ).attr( 'src', "images/Letter_W_MeTherapy_Selected.svg" );
 					$( "a#bee_button_0" + event.data.active_button ).css( { "cursor": "not-allowed" } );
 				}
 			);
 		}
-		$( "p#bee_menu_text_01" ).fadeIn( fade_time, "swing" );
+		$( "p#metherapy_menu_text01" ).fadeIn( fade_time, "swing" );
+		$( "img#metherapy_foto01" ).fadeIn( fade_time, "swing" );
 		$( "img#Letter_W_MeTherapy_01" ).attr( 'src', "images/Letter_W_MeTherapy_Selected.svg" );
 		$( "a#bee_button_01" ).css( { "cursor": "not-allowed" } );
 	}
