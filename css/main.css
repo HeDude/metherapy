@@ -127,6 +127,15 @@ img.metherapy_menu_background
     transition: all .2s ease-in-out;
 }
 
+a.metherapy_maps img
+{
+    position: absolute;
+    width: 50px;
+    left: 150px;
+    top: 490px;
+    opacity: 0.6;
+}
+
 a.metherapy_button
 {
     position: absolute;
@@ -212,7 +221,7 @@ aside
     top: 350px;
 }
 
-aside img.metherapy_rand
+img.metherapy_rand
 {
 	border: 1px dotted #663366;
 }
