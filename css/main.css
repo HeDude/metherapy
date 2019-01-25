@@ -188,6 +188,23 @@ a.metherapy_button.MeTherapy_5
     z-index: 5;
 }
 
+blockquote.metherapy_compensation
+{
+    font-size: 14px;
+    position: absolute;
+    width: 378px;
+    left: 530px;
+    top: 300px;
+    color: #FFFFFF;
+    background-color:rgba(0, 0, 0, 0.3);
+    text-align: center;
+}
+
+blockquote.metherapy_compensation a
+{
+    color: #FFFFFF;
+}
+
 aside
 {
     position: absolute;
