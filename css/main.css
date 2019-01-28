@@ -1,4 +1,4 @@
-body.Bee_Body_MeTherapy
+body.metherapy
 {
     color:       #000000;
     font-size:   12px;
@@ -10,13 +10,19 @@ body.Bee_Body_MeTherapy
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
+    display: none;
+}
+
+h1
+{
+    visibility: hidden;
 }
 
 p.metherapy_copyright
 {
     position: absolute;
-    left: 350px;
-    top: 590px;
+    left: 70px;
+    top: 610px;
     color: #FFFFFF;
 }
 
@@ -60,6 +66,7 @@ img.metherapy_home_icon
     width: 50px;
     left: 300px;
     top: 0px;
+    z-index: 99999;
 }
 
 img.metherapy_title
@@ -75,7 +82,7 @@ img.metherapy_logo
     position: absolute;
     width: 100px;
     left: 280px;
-    top: 375px;
+    top: 425px;
     z-index: -1;
 }
 
@@ -131,9 +138,16 @@ a.metherapy_maps img
 {
     position: absolute;
     width: 50px;
-    left: 150px;
+    left: 130px;
     top: 490px;
-    opacity: 0.6;
+}
+
+a.metherapy_therapist img
+{
+    position: absolute;
+    width: 50px;
+    left: 50px;
+    top: 490px;
 }
 
 a.metherapy_button
@@ -201,12 +215,13 @@ blockquote.metherapy_compensation
 {
     font-size: 14px;
     position: absolute;
-    width: 378px;
-    left: 530px;
-    top: 300px;
+    width: 180px;
+    left: 745px;
+    top: 590px;
     color: #FFFFFF;
     background-color:rgba(0, 0, 0, 0.3);
     text-align: center;
+    z-index: 4;
 }
 
 blockquote.metherapy_compensation a
@@ -217,8 +232,9 @@ blockquote.metherapy_compensation a
 aside
 {
     position: absolute;
-    left: 565px;
-    top: 350px;
+    left: 380px;
+    top: 550px;
+    z-index: 2;
 }
 
 img.metherapy_rand
@@ -226,15 +242,87 @@ img.metherapy_rand
 	border: 1px dotted #663366;
 }
 
+img.metherapy_head_out_brain
+{
+    position: absolute;
+    width: 1200px;
+    left: -80px;
+    top: -215px;
+    opacity: 0.9;
+    z-index: -1;
+}
+
+img.metherapy_head
+{
+    position: absolute;
+    width: 1200px;
+    left: -80px;
+    top: -215px;
+    z-index: -1;
+}
+
+img.metherapy_pds, p.metherapy_pds
+{
+    position: absolute;
+    width: 75px;
+    left: 320px;
+    top: 150px;
+}
+p.metherapy_pds
+{
+    top: 225px;
+    text-align: center;
+}
+img.metherapy_maagband, p.metherapy_maagband
+{
+    position: absolute;
+    width: 80px;
+    left: 400px;
+    top: 75px;
+}
+p.metherapy_maagband
+{
+    top: 150px;
+    text-align: center;
+}
+img.metherapy_bijnier, p.metherapy_bijnier
+{
+    position: absolute;
+    width: 80px;
+    left: 230px;
+    top: 125px;
+}
+p.metherapy_bijnier
+{
+    top: 200px;
+    text-align: center;
+}
+
+img.metherapy_ssz, img.metherapy_scag, img.metherapy_rbcz, img.metherapy_nbvh
+{
+    height: 93px;
+}
+img.metherapy_ssz, img.metherapy_scag
+{
+    width: 68px;
+}
+img.metherapy_rbcz
+{
+    width: 132px;
+}
+img.metherapy_nbvh
+{
+    width: 110px;
+}
 
 @media only screen and (min-device-width : 375px) and (max-device-width : 667px)
 {
     img.metherapy_logo
     {
         position: absolute;
-        width: 60px;
+        width: 75px;
         left: 295px;
-        top: 430px;
+        top: 460px;
         z-index: -1;
     }
 }

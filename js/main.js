@@ -7,10 +7,47 @@ $(document).ready
 		var i;
 		var j;
 
+		$( "#menu" ).fadeOut( 0, "swing" );
+		$( "#webpage" ).show();
+		$( "#home" ).fadeIn( fade_time, "swing" );
+
+		$( "#menu_button" ).click
+		(
+			function ( event )
+			{
+				$( "#logo" ).animate
+				(
+					{
+					    top: "-=50",
+				    },
+					fade_time,
+		            function() {}
+				);
+				$("#home").fadeOut( fade_time, "swing" );
+				$("#menu").fadeIn( fade_time, "swing" );
+			}
+		)
+		$( "#home_button" ).click
+		(
+			function ( event )
+			{
+				$( "#logo" ).animate
+				(
+					{
+					    top: "+=50",
+				    },
+					fade_time,
+		            function() {}
+				);
+				$("#menu").fadeOut( fade_time, "swing" );
+				$("#home").fadeIn( fade_time, "swing" );
+			}
+		)
+
 		for (i = 1;i < 6; i++)
 		{
-			$("p#metherapy_menu_text0"+i).fadeOut(0, "swing");
-		    $("img#metherapy_foto0"+i ).fadeOut( 0, "swing" );
+			$("p#metherapy_menu_text0"+i).fadeOut( 0, "swing");
+			$("img#metherapy_foto0"+i ).fadeOut( 0, "swing" );
 			$("#bee_button_0"+i).click
 			(
 				{active_button: i},
@@ -24,12 +61,12 @@ $(document).ready
 							$( "p#metherapy_menu_text0" + j ).fadeOut( fade_time, "swing" );
 							$( "img#metherapy_foto0" + j ).fadeOut( fade_time, "swing" );
 							$( "img#Letter_W_MeTherapy_0" + j ).attr( 'src', "images/Letter_W_MeTherapy.svg" );
-					        $( "a#bee_button_0" + j ).css( { "cursor": "pointer" } );
+							$( "a#bee_button_0" + j ).css( { "cursor": "pointer" } );
 						};
 					};
 					$( "p#metherapy_menu_text0" + event.data.active_button ).fadeIn( fade_time, "swing" );
 					$( "img#metherapy_foto0" + event.data.active_button ).fadeIn( fade_time, "swing" );
-				    $( "img#Letter_W_MeTherapy_0" + event.data.active_button ).attr( 'src', "images/Letter_W_MeTherapy_Selected.svg" );
+					$( "img#Letter_W_MeTherapy_0" + event.data.active_button ).attr( 'src', "images/Letter_W_MeTherapy_Selected.svg" );
 					$( "a#bee_button_0" + event.data.active_button ).css( { "cursor": "not-allowed" } );
 				}
 			);
