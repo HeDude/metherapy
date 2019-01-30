@@ -261,16 +261,41 @@ img.metherapy_head
     z-index: -1;
 }
 
+img.metherapy_oorsuizen, p.metherapy_oorsuizen
+{
+    position: absolute;
+    width: 80px;
+    left: 200px;
+    top: 50px;
+}
+p.metherapy_oorsuizen
+{
+    top: 125px;
+    text-align: center;
+}
+
 img.metherapy_hoofdpijn, p.metherapy_hoofdpijn
 {
     position: absolute;
     width: 80px;
     left: 400px;
-    top: 0px;
+    top: 25px;
 }
 p.metherapy_hoofdpijn
 {
-    top: 75px;
+    top: 100px;
+    text-align: center;
+}
+img.metherapy_verslaving, p.metherapy_verslaving
+{
+    position: absolute;
+    width: 80px;
+    left: 300px;
+    top: 60px;
+}
+p.metherapy_verslaving
+{
+    top: 135px;
     text-align: center;
 }
 img.metherapy_pds, p.metherapy_pds
