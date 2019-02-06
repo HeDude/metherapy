@@ -1,4 +1,4 @@
-$(document).ready
+$( document ).ready
 (
 	function()
 	{
@@ -8,7 +8,8 @@ $(document).ready
 		var j;
 
 		$( "#menu" ).fadeOut( 0, "swing" );
-		$( "#webpage" ).show();
+		$( "#webpage" ).css( "background-image", "url('images/Background_MeTherapy.jpg')");
+		$( "#webpage" ).css( "visibility", "visible");
 		$( "#home" ).fadeIn( fade_time, "swing" );
 
 		$( "#menu_button" ).click
