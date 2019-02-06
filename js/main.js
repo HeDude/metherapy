@@ -12,6 +12,13 @@ $( document ).ready
 		$( "#webpage" ).css( "visibility", "visible");
 		$( "#home" ).fadeIn( fade_time, "swing" );
 
+		$( "#popup_message" ).click
+		(
+			function ( event )
+			{
+				$( "#popup_message" ).css( "display", "none");
+			}
+		)
 		$( "#menu_button" ).click
 		(
 			function ( event )
