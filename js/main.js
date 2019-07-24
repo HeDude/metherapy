@@ -8,7 +8,6 @@ $( document ).ready
 		var j;
 
 		$( "#menu" ).fadeOut( 0, "swing" );
-		$( "#webpage" ).css( "background-image", "url('images/Background_MeTherapy.jpg')");
 		$( "#webpage" ).css( "visibility", "visible");
 		$( "#home" ).fadeIn( fade_time, "swing" );
 
@@ -17,38 +16,6 @@ $( document ).ready
 			function ( event )
 			{
 				$( "#popup_message" ).css( "display", "none");
-			}
-		)
-		$( "#menu_button" ).click
-		(
-			function ( event )
-			{
-				$( "#logo" ).animate
-				(
-					{
-					    top: "-=50",
-				    },
-					fade_time,
-		            function() {}
-				);
-				$("#home").fadeOut( fade_time, "swing" );
-				$("#menu").fadeIn( fade_time, "swing" );
-			}
-		)
-		$( "#home_button" ).click
-		(
-			function ( event )
-			{
-				$( "#logo" ).animate
-				(
-					{
-					    top: "+=50",
-				    },
-					fade_time,
-		            function() {}
-				);
-				$("#menu").fadeOut( fade_time, "swing" );
-				$("#home").fadeIn( fade_time, "swing" );
 			}
 		)
 
