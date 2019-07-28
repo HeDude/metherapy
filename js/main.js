@@ -14,7 +14,7 @@ $( document ).ready
 		{
 			$("p#metherapy_menu_text0"+i).fadeOut( 0, "swing");
 			$("img#metherapy_foto0"+i ).fadeOut( 0, "swing" );
-			$("#bee_button_0"+i).click
+			$("#metherapy_menu_title0"+i).click
 			(
 				{active_button: i},
 				function ( event )
@@ -26,18 +26,21 @@ $( document ).ready
 						{
 							$( "p#metherapy_menu_text0" + j ).fadeOut( 0, "swing" );
 							$( "img#metherapy_foto0" + j ).fadeOut( 0, "swing" );
-							$( "a#bee_button_0" + j ).css( { "cursor": "pointer" } );
+							$( "a#metherapy_menu_title0" + j ).css( { "cursor": "pointer" } );
+							$( "a#metherapy_menu_title0" + j ).css( { "color": "white" } );
 						};
 					};
 					$( "p#metherapy_menu_text0" + event.data.active_button ).fadeIn( 0, "swing" );
 					$( "img#metherapy_foto0" + event.data.active_button ).fadeIn( 0, "swing" );
-					$( "a#bee_button_0" + event.data.active_button ).css( { "cursor": "not-allowed" } );
+					$( "a#metherapy_menu_title0" + event.data.active_button ).css( { "cursor": "not-allowed" } );
+					$( "a#metherapy_menu_title0" + event.data.active_button ).css( { "color": "grey" } );
 				}
 			);
 		}
 		$( "p#metherapy_menu_text00" ).fadeIn( 0, "swing" );
 		$( "img#metherapy_foto00" ).fadeIn( 0, "swing" );
-		$( "a#bee_button_00" ).css( { "cursor": "not-allowed" } );
+		$( "a#metherapy_menu_title00" ).css( { "cursor": "not-allowed" } );
+		$( "a#metherapy_menu_title00" ).css( { "color": "grey" } );
 	}
 );
 

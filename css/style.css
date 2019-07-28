@@ -125,7 +125,7 @@ a.metherapy_button img
     height:24px;
 }
 
-a.metherapy_button.MeTherapy_0
+#metherapy_menu_title00
 {
     position: absolute;
     left: 295px;
@@ -135,7 +135,7 @@ a.metherapy_button.MeTherapy_0
     z-index: 202;
 }
 
-a.metherapy_button.MeTherapy_1
+#metherapy_menu_title01
 {
     position: absolute;
     left: 115px;
@@ -143,7 +143,7 @@ a.metherapy_button.MeTherapy_1
     z-index: 61;
 }
 
-a.metherapy_button.MeTherapy_2
+#metherapy_menu_title02
 {
     position: absolute;
     left: 120px;
@@ -151,7 +151,7 @@ a.metherapy_button.MeTherapy_2
     z-index: 61;
 }
 
-a.metherapy_button.MeTherapy_3
+#metherapy_menu_title03
 {
     position: absolute;
     left: 125px;
@@ -159,7 +159,7 @@ a.metherapy_button.MeTherapy_3
     z-index: 61;
 }
 
-a.metherapy_button.MeTherapy_4
+#metherapy_menu_title04
 {
     position: absolute;
     left: 130px;
@@ -167,7 +167,7 @@ a.metherapy_button.MeTherapy_4
     z-index: 64;
 }
 
-a.metherapy_button.MeTherapy_5
+#metherapy_menu_title05
 {
     position: absolute;
     left: 135px;
