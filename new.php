@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme.</title>
+    <title>MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme in Emmen.</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
@@ -26,6 +26,16 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="image/favicon//ms-icon-144x144.png">
     <meta name="theme-color"             content="#ffffff">
+
+    <meta name="description" content="MeTherapy is een praktijk in Emmen waarbij Mindfulness & Hypnotherapie bij onder andere lichamelijke klachten, afvallen en autisme wordt ingezet."/>
+    <link rel="canonical" href="https://www.metherapy.nl/" />
+    <meta property="og:locale" content="nl_NL" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme in Emmen." />
+    <meta property="og:description" content="MeTherapy is een praktijk in Emmen waarbij Mindfulness & Hypnotherapie bij onder andere lichamelijke klachten, afvallen en autisme wordt ingezet." />
+    <meta property="og:url" content="https://www.metherapy.nl/" />
+    <meta property="og:site_name" content="MeTherapy" />
+
 </head>
 <body id="webpage" class="metherapy">
     <section id="home">
@@ -41,7 +51,7 @@
                     array
                     (
                         'Afspraak' =>
-                        'MeTherapy wordt gerund door <a href="https://www.linkedin.com/in/marielle-janssen-b62b402b/" target="_blank">Mari&euml;lle Janssen</a>: maatschappelijk ondernemer, bewegingswetenschapper en integraal psycho- en hypnotherapeut. Mari&euml;lle is aangesloten bij de <a href="https://hypnotherapie.nl/praktijk-pagina/me-therapy-me-coaching/" target="_blank">NBVH</a>, <a href="https://samensterkzorg.nl/de-hulpverleners/mari-lle" target="_blank">SSZ</a>, <a href="https://www.scag.nl/register/?q=Me+Therapy+%26+Me+Coaching" target="_blank">SCAG</a> en <a href="https://www.rbcz.nu" target="_blank">RBCZ</a> waardoor vergoeding mogelijk is vanuit de aanvullende verzekering of jeugdhulp. De behandeling kan overdag of s&rsquo;avonds zowel aan huis, aan de Geuzingerbrink 94 te Emmen als online.',
+                        'MeTherapy wordt gerund door <a href="https://www.linkedin.com/in/marielle-janssen-b62b402b/" target="_blank">Mari&euml;lle Janssen</a>: maatschappelijk ondernemer, bewegingswetenschapper en integraal psycho- en hypnotherapeut. Mari&euml;lle is aangesloten bij de <a href="https://hypnotherapie.nl/praktijk-pagina/me-therapy-me-coaching/" target="_blank">NBVH</a>, <a href="https://samensterkzorg.nl/de-hulpverleners/mari-lle" target="_blank">SSZ</a>, <a href="https://www.scag.nl/register/?q=Me+Therapy+%26+Me+Coaching" target="_blank">SCAG</a> en <a href="https://www.rbcz.nu" target="_blank">RBCZ</a> waardoor vergoeding mogelijk is vanuit de aanvullende verzekering of jeugdhulp. De behandeling kan overdag of s&rsquo;avonds zowel aan huis, aan de Geuzingerbrink 94 te (Bargeres) Emmen als online.',
 
                         'Mindfulness' =>
                         'Mindfulness helpt je bewust te worden van wat er allemaal in je lichaam en geest gebeurt zonder er nog in te worden gezogen. Deze aanpak is effectief bij autisme, verslavingen, depressie en lichamelijke klachten.',
