@@ -50,7 +50,7 @@
                         'Hypnotherapie zorgt dat je via hypnose contact krijgt met onbewuste processen. De trance is licht zodat je actief betrokken blijft bij deze verkenning. Deze aanpak is effectief bij het prikkelbaar darmsyndroom, afvallen en psychische klachten die zich lichamelijk uiten.',
 
                         'Lichamelijke<br/>Klachten' =>
-                        'Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op. Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen. Effectief bij bijvoorbeeld darmklachten, hoofdpijn en oorsuizen.',
+                        'Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op. Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen. Effectief bij bijvoorbeeld <a href="https://nl.wikipedia.org/wiki/Prikkelbaredarmsyndroom#Andere_therapie%C3%ABn">Prikkelbaredarmsyndroom</a>, Chronisch Vermoeidheids Syndroom, Fibromyalgie en Whiplash.',
 
                         'Afvallen' =>
                         'Afvallen kan worden ondersteund door een Therapeutische Virtuele Maagband (TVM) aan te brengen. Het grote voordeel van de TVM is dat het eetgedrag blijvend wordt veranderd, omdat er aandacht wordt besteed aan de onderliggende problematiek.',
