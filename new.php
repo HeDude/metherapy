@@ -4,6 +4,8 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme in Emmen.</title>
+    <link rel="canonical" href="https://www.metherapy.nl/" />
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
@@ -28,14 +30,12 @@
     <meta name="theme-color"             content="#ffffff">
 
     <meta name="description" content="MeTherapy is een praktijk in Emmen waarbij Mindfulness & Hypnotherapie bij onder andere lichamelijke klachten, afvallen en autisme wordt ingezet."/>
-    <link rel="canonical" href="https://www.metherapy.nl/" />
     <meta property="og:locale" content="nl_NL" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme in Emmen." />
     <meta property="og:description" content="MeTherapy is een praktijk in Emmen waarbij Mindfulness & Hypnotherapie bij onder andere lichamelijke klachten, afvallen en autisme wordt ingezet." />
     <meta property="og:url" content="https://www.metherapy.nl/" />
     <meta property="og:site_name" content="MeTherapy" />
-
 </head>
 <body id="webpage" class="metherapy">
     <section id="home">
