@@ -6,22 +6,34 @@
     <title>MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme.</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css">
+
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon"                  sizes="57x57"   href="image/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon"                  sizes="60x60"   href="image/favicon//apple-icon-60x60.png">
+    <link rel="apple-touch-icon"                  sizes="72x72"   href="image/favicon//apple-icon-72x72.png">
+    <link rel="apple-touch-icon"                  sizes="76x76"   href="image/favicon//apple-icon-76x76.png">
+    <link rel="apple-touch-icon"                  sizes="114x114" href="image/favicon//apple-icon-114x114.png">
+    <link rel="apple-touch-icon"                  sizes="120x120" href="image/favicon//apple-icon-120x120.png">
+    <link rel="apple-touch-icon"                  sizes="144x144" href="image/favicon//apple-icon-144x144.png">
+    <link rel="apple-touch-icon"                  sizes="152x152" href="image/favicon//apple-icon-152x152.png">
+    <link rel="apple-touch-icon"                  sizes="180x180" href="image/favicon//apple-icon-180x180.png">
+    <link rel="icon"             type="image/png" sizes="192x192" href="image/favicon//android-icon-192x192.png">
+    <link rel="icon"             type="image/png" sizes="32x32"   href="image/favicon//favicon-32x32.png">
+    <link rel="icon"             type="image/png" sizes="96x96"   href="image/favicon//favicon-96x96.png">
+    <link rel="icon"             type="image/png" sizes="16x16"   href="image/favicon//favicon-16x16.png">
+    <link rel="manifest"                                          href="image/favicon//manifest.json">
+
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="image/favicon//ms-icon-144x144.png">
+    <meta name="theme-color"             content="#ffffff">
 </head>
 <body id="webpage" class="metherapy">
     <section id="home">
-        <div class="scaleable-wrapper" id="scaleable-wrapper">
-            <div class="very-specific-design" id="very-specific-design">
+        <div class="scaleable_wrapper" id="scaleable_wrapper">
+            <div class="metherapy_menu_container" id="metherapy_menu_container">
                 <h1>Menu</h1>
 
-                <img class="metherapy_menu_left_Border" src="images/Menu_Button_00_MeTherapy.svg" alt="Menu MeTherapy">
-                <img id="metherapy_menu_left_00" class="metherapy_home_icon" src="images/baseline-home-24px.svg" alt="Home Icon">
-                <img id="metherapy_menu_left_01" class="metherapy_menu_left" src="images/Menu_Button_01_MeTherapy.svg" alt="Menu Button 01 MeTherapy">
-                <img id="metherapy_menu_left_02" class="metherapy_menu_left" src="images/Menu_Button_02_MeTherapy.svg" alt="Menu Button 02 MeTherapy">
-                <img id="metherapy_menu_left_03" class="metherapy_menu_left" src="images/Menu_Button_03_MeTherapy.svg" alt="Menu Button 03 MeTherapy">
-                <img id="metherapy_menu_left_04" class="metherapy_menu_left" src="images/Menu_Button_04_MeTherapy.svg" alt="Menu Button 04 MeTherapy">
-                <img id="metherapy_menu_left_05" class="metherapy_menu_left" src="images/Menu_Button_05_MeTherapy.svg" alt="Menu Button 05 MeTherapy">
-
+                <img class="metherapy_menu_image_border" src="image/menu_image_border.svg" alt="Menu MeTherapy">
 <?php
                 $i = 0;
                 foreach
@@ -38,7 +50,7 @@
                         'Hypnotherapie zorgt dat je via hypnose contact krijgt met onbewuste processen. De trance is licht zodat je actief betrokken blijft bij deze verkenning. Deze aanpak is effectief bij het prikkelbaar darmsyndroom, afvallen en psychische klachten die zich lichamelijk uiten.',
 
                         'Lichamelijke<br/>Klachten' =>
-                        'Vaak weet je al (jaren lang) veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op. Integrale psycho- en hypnotherapie maakt gebruik van onbewuste processen in jezelf, waardoor het kwartje nu eindelijk kan vallen en klachten verminderen of verdwijnen.',
+                        'Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op. Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen.',
 
                         'Afvallen' =>
                         '',
@@ -49,20 +61,17 @@
                     as $menu_title => $menu_text
                 )
                 {
-                    echo '<!--' . $menu_title . ' menu -->' . PHP_EOL;
-                    echo '<a id="metherapy_menu_title0' . $i . '" class="metherapy_button" href="#home">' . $menu_title . '</a>' . PHP_EOL;
-                    echo '<p id="metherapy_menu_text0' . $i . '" class="metherapy_menutext">' . $menu_text . '<br/><br/><i>Lees meer op <a href="http://wiki.metherapy.nl" target="_blank">Me Wiki.</a></i></p>';
+                    $menu_ident = str_repeat( " ", 16 );
+                    $menu_title_wikipage = strip_tags( str_replace('<', '_<', $menu_title ) );
+                    $menu_title_filename = strtolower( $menu_title_wikipage );
+                    echo  PHP_EOL . $menu_ident . '<!--' . $menu_title . ' menu -->' . PHP_EOL  . PHP_EOL;
+                    echo $menu_ident . '<img id="metherapy_menu_image_0' . $i . '" src="image/metherapy_menu_image_0' . $i . '.svg" alt="Menu Button 0' . $i . ' MeTherapy">' . PHP_EOL;
+                    echo $menu_ident . '<a id="metherapy_menu_title0' . $i . '" class="metherapy_button" href="#home">' . $menu_title . '</a>' . PHP_EOL;
+                    echo $menu_ident . '<p id="metherapy_menu_text0' . $i . '" class="metherapy_menutext">' . $menu_text . '<br/><br/><i>Lees meer op <a href="https://wiki.metherapy.nl/index.php/' . $menu_title_wikipage . '" target="_blank">Me Wiki.</a></i></p>' . PHP_EOL;
+                    echo $menu_ident . '<img id="metherapy_menu_foto0' . $i . '" class="metherapy_menu_foto" src="image/' . $menu_title_filename . '.png" alt="Foto ' . $menu_title . '">' . PHP_EOL;
                     $i++;
                 }
 ?>
-
-                <img id="metherapy_foto00" class="metherapy_foto" src="image/afspraak.png" alt="Foto Meisje">
-                <img id="metherapy_foto01" class="metherapy_foto" src="image/psychosociaal.png" alt="Foto Meisje">
-                <img id="metherapy_foto02" class="metherapy_foto" src="images/wanneer.jpg" alt="Foto Klachten">
-                <img id="metherapy_foto03" class="metherapy_foto" src="images/wat.jpg" alt="Foto">
-                <img id="metherapy_foto04" class="metherapy_foto" src="images/pasfoto.jpg" alt="Pasfoto">
-                <img id="metherapy_foto05" class="metherapy_foto" src="images/waar.png" alt="Foto">
-
                 <img class="metherapy_title_me" src="image/logo_naam_me.svg" alt="Logo MeTherapy">
                 <img class="metherapy_title_therapy" src="image/logo_naam_therapy.svg" alt="Logo MeTherapy">
             </div>

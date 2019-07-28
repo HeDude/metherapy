@@ -13,7 +13,7 @@ $( document ).ready
 		for (i = 0;i < 6; i++)
 		{
 			$("p#metherapy_menu_text0"+i).fadeOut( 0, "swing");
-			$("img#metherapy_foto0"+i ).fadeOut( 0, "swing" );
+			$("img#metherapy_menu_foto0"+i ).fadeOut( 0, "swing" );
 			$("#metherapy_menu_title0"+i).click
 			(
 				{active_button: i},
@@ -25,30 +25,29 @@ $( document ).ready
 						if ( j !== event.data.active_button )
 						{
 							$( "p#metherapy_menu_text0" + j ).fadeOut( 0, "swing" );
-							$( "img#metherapy_foto0" + j ).fadeOut( 0, "swing" );
+							$( "img#metherapy_menu_foto0" + j ).fadeOut( 0, "swing" );
 							$( "a#metherapy_menu_title0" + j ).css( { "cursor": "pointer" } );
 							$( "a#metherapy_menu_title0" + j ).css( { "color": "white" } );
 						};
 					};
 					$( "p#metherapy_menu_text0" + event.data.active_button ).fadeIn( 0, "swing" );
-					$( "img#metherapy_foto0" + event.data.active_button ).fadeIn( 0, "swing" );
+					$( "img#metherapy_menu_foto0" + event.data.active_button ).fadeIn( 0, "swing" );
 					$( "a#metherapy_menu_title0" + event.data.active_button ).css( { "cursor": "not-allowed" } );
 					$( "a#metherapy_menu_title0" + event.data.active_button ).css( { "color": "grey" } );
 				}
 			);
 		}
 		$( "p#metherapy_menu_text00" ).fadeIn( 0, "swing" );
-		$( "img#metherapy_foto00" ).fadeIn( 0, "swing" );
+		$( "img#metherapy_menu_foto00" ).fadeIn( 0, "swing" );
 		$( "a#metherapy_menu_title00" ).css( { "cursor": "not-allowed" } );
 		$( "a#metherapy_menu_title00" ).css( { "color": "grey" } );
 	}
 );
 
-
-/* Scaling function */
-var $el = $("#very-specific-design");
+/* Scaling function to fit into different devices */
+var $el = $("#metherapy_menu_container");
 var elWidth = $el.outerWidth();
-var $wrapper = $("#scaleable-wrapper");
+var $wrapper = $("#scaleable_wrapper");
 var scale;
 scale = $wrapper.width() / elWidth;
 $el.css

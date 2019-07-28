@@ -1,0 +1,35 @@
+@charset "utf-8";
+body.metherapy
+{
+    color: black;
+    background-color: black;
+}
+
+.uk-link, a
+{
+    color: #8a0052;
+}
+.uk-link:hover, a:hover
+{
+    color: #FFFFFF;
+}
+
+img.metherapy_rand
+{
+	border: 1px dotted #663366;
+}
+
+a.metherapy_button
+{
+    color: #FFFFFF;
+}
+
+a.metherapy_button:active
+{
+    color: #FFFFFF;
+}
+
+p.metherapy_title
+{
+    color: #F488CA;
+}
