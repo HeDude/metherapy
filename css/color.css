@@ -1,0 +1,121 @@
+@charset "utf-8";
+body
+{
+    color: black;
+    background-color: black;
+}
+footer
+{
+    color: white;
+}
+h2
+{
+    color: white;
+    background-color: black;
+}
+h3
+{
+    color: #dddddd;
+}
+a
+{
+    color: #8a0052;
+}
+a:hover
+{
+    color: #4f002f;
+}
+.gototop
+{
+	background: rgba(100, 100, 100, 0.5);
+	color: #ffffff;
+}
+.werkwijze
+{
+	color: #ffffff;
+}
+.werkwijze .overlay
+{
+	background: rgba(79,0,47,0.5);
+}
+.werkwijze h4
+{
+	color: #ffffff;
+    background-color: white;
+}
+.referentie_klant_1
+{
+    background-color: #4f002f;
+    color: #ffffff;
+}
+.referentie_klant_2
+{
+    background: black;
+    color: white;
+}
+.referentie_klant_2_driehoek:before
+{
+    border-left: 10px solid transparent;
+    border-right: 10px solid black;
+    border-top: 10px solid black;
+    border-bottom: 10px solid transparent;
+}
+.referentie_klant_1_driehoek:before
+{
+    border-left: 10px solid #4f002f;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #4f002f;
+    border-bottom: 10px solid transparent;
+}
+.zorgvraag_effect .item
+{
+	background-color: #dddddd;
+}
+.zorgvraag_effect .item .overlay:before
+{
+	background: rgba(79,0,47,0.9); /* fallback for old browsers */ /* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(top, rgba(79,0,47,0.9), rgba(138, 0, 82, 0.9));
+	background: -o-linear-gradient(top, rgba(79,0,47,0.9), rgba(138, 0, 82, 0.9));
+	background: linear-gradient(to bottom, rgba(79,0,47,0.9), rgba(138, 0, 82, 0.9)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.zorgvraag_effect .content
+{
+	color: #ffffff;
+}
+#contact
+{
+    background-color: white;
+}
+#contactgegevens ul
+{
+    background-color: #dddddd;
+}
+#header figcaption p
+{
+    background-color: #dddddd;
+	border: 1px solid #ffffff;
+	color: black;
+}
+#werkwijze
+{
+    color: white;
+    background-color: black;
+}
+#werkwijze p
+{
+    color: white;
+}
+#referentie
+{
+    color: white;
+    background-color: #dddddd;
+}
+#referentie h3
+{
+    color: black;
+}
+#registratie
+{
+    color: #dddddd;
+    background-color: black;
+}

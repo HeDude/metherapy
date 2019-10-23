@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* iPhone 5/SE */
+@media (min-width: 320px)
+{
+}
+
+/* Galaxy S5 */
+@media (min-width: 360px)
+{
+}
+
+/* iPhone 6/7/8/X */
+@media (min-width: 375px)
+{
+}
+
+/* Pixel 2 and Pixel XL */
+@media (min-width: 411px)
+{
+}
+
+/* iPhone 6/7/8 SL */
+@media (min-width: 414px)
+{
+}
+
+@media (min-width: 768px)
+{
+    .zorgvraag_effect .item
+	{
+		margin-bottom: 15px;
+	}
+    .about.spacer
+	{
+		padding-left: 2em;
+		padding-right: 2em;
+	}
+	.spacer
+	{
+		padding: 2em 0 0 0;
+	}
+}
+
+@media (min-width: 992px)
+{
+    body
+    {
+        font-size:   16px;
+    }
+    footer
+    {
+        font-size:   12px;
+    }
+    .gototop
+    {
+        display: block;
+    }
+    .top_offset
+    {
+        height: 50px;
+    }
+    #contactgegevens
+    {
+        font-size:   18px;
+    }
+    #header figure
+    {
+        font-size: 14px;
+    }
+    #header h2
+    {
+        font-size: 28px;
+    }
+    #header figcaption
+    {
+    	width: 275px;
+    }
+    #header figcaption p
+    {
+        opacity: 0.5;
+    	margin-top: 0.5em;
+    	display: inline-block;
+    	padding: 0 0.5em;
+    }
+    #header figcaption p:hover
+    {
+    	text-decoration: none;
+    	padding: 0 1.5em;
+    }
+    #oprichter
+    {
+        font-size:   18px;
+    }
+    #oprichter img
+    {
+        height: 68px;
+    }
+    #zorgvraag .content
+    {
+        font-size: 12px;
+    }
+}
+
+@media (min-width: 1200px)
+{
+}
