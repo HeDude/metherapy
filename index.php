@@ -44,6 +44,9 @@
                         Hulpmiddelen
                     </a>
                     <div class="dropdown-menu">
+                        <span class="navbar-text">
+                            In ontwikkeling zijn
+                        </span>
                         <a class="dropdown-item" href="https://wiki.metherapy.nl">Encyclopedie (wiki)</a>
                         <a class="dropdown-item" href="https://elo.metherapy.nl">Leeromgeving</a>
                         <a class="dropdown-item" href="https://online.metherapy.nl">Online hulplijn</a>
