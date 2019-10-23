@@ -39,6 +39,17 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
             <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        Hulpmiddelen
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="https://wiki.metherapy.nl">Encyclopedie (wiki)</a>
+                        <a class="dropdown-item" href="https://elo.metherapy.nl">Leeromgeving</a>
+                        <a class="dropdown-item" href="https://online.metherapy.nl">Online hulplijn</a>
+                        <a class="dropdown-item" href="https://blog.metherapy.nl">Blog</a>
+                    </div>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#werkwijze">Werkwijze</a>
                 </li>
