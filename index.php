@@ -200,7 +200,7 @@
                                     Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op.
                                     <br>
                                 </span>
-                                <img src="image/verslaving.png" alt="">
+                                <img src="image/roken.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -221,10 +221,10 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op. Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen. Effectief bij bijvoorbeeld Prikkelbaredarmsyndroom, Chronisch Vermoeidheids Syndroom, Fibromyalgie en Whiplash.
+                                    Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op.
                                     <br>
                                 </span>
-                                <img src="image/verslaving.png" alt="">
+                                <img src="image/roken.png" alt="">
 
                             </div>
                         </div>
