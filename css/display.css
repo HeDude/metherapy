@@ -1,7 +1,11 @@
 @charset "utf-8";
 body
 {
-  position: relative;
+    position: relative;
+}
+ul
+{
+    list-style-type:none;
 }
 .gototop
 {
