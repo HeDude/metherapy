@@ -59,12 +59,13 @@
                         Hulpmiddelen
                     </a>
                     <div class="dropdown-menu">
+                        <a class="dropdown-item" href="doc/flyer_pds.pdf" target="_blank">Folder PDS</a>
                         <span class="navbar-text">
                             In ontwikkeling zijn
                         </span>
-                        <a class="dropdown-item" href="https://wiki.metherapy.nl">Documentatie</a>
-                        <a class="dropdown-item" href="https://online.metherapy.nl">Online therapie</a>
-                        <a class="dropdown-item" href="https://blog.metherapy.nl">Blog</a>
+                        <a class="dropdown-item" href="https://wiki.metherapy.nl" target="_blank">Documentatie</a>
+                        <a class="dropdown-item" href="https://online.metherapy.nl" target="_blank">Online therapie</a>
+                        <a class="dropdown-item" href="https://blog.metherapy.nl" target="_blank">Blog</a>
                     </div>
                 </li>
             </ul>
@@ -350,10 +351,11 @@
                             </a>
                         </li>
                         <li>-----</li>
-                        <li><a href="https://goo.gl/maps/VUA8k7U6zLpEKNTy8" target="_blank" title="Locatie op Google Maps"><i>Bargeres</i></a></li>
                         <li><a href="https://goo.gl/maps/VUA8k7U6zLpEKNTy8" target="_blank" title="Locatie op Google Maps"><i>Geuzingerbrink 94</i></a></li>
                         <li><a href="https://goo.gl/maps/VUA8k7U6zLpEKNTy8" target="_blank" title="Locatie op Google Maps"><i>7812 NX Emmen</i></a></li>
+                        <li>-----</li>
                         <li><b>Gratis parkeren</b></li>
+                        <li><a href="https://goo.gl/maps/VUA8k7U6zLpEKNTy8" target="_blank" title="Locatie op Google Maps"><i>Bargeres</i></a></li>
                         <li><a href="https://9292.nl/emmen/bushalte-geuzingerbrink" target="_blank" title="OV9292 informatie over bushalte"><b>Stadsbus <span class="badge badge-light">lijn 4</span></b></a></li>
                         <li>-----</li>
                         <li><a href="https://wa.me/31622034603" target="_blank" title="Telefoonnummer op Whatsapp"><b><i class="fa fa-whatsapp"></i> <span class="badge badge-secondary">06-22034603</span></b></a></li>
@@ -364,7 +366,10 @@
                 <div id="oprichter" class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
                     <ul>
                         <li>
-                            is ook oprichter van
+                            Mariëlle is ook
+                        </li>
+                        <li>
+                            &nbsp;
                         </li>
                         <li>
                             <a href="https://www.entreprenasium.nl" target="_blank" title="Website van het Entreprenasium">
