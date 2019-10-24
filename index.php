@@ -161,6 +161,30 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
+                                    Mindfulness en Hypnotherapie zullen je bewust maken van je angsten en de bronnen van stress. Je leert te ontspannen en een balans te vinden tussen actie en rust en tussen draagkracht en draaglast.
+                                    <br>
+                                </span>
+                                <img src="image/angst.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
+                        <div class="item">
+                            <div class="overlay">
+                                <span class="content">
+                                    <br>
+                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij het verbeteren van gedrag door meer inzicht en controle over het eigen unieke brein.
+                                    <br>
+                                </span>
+                                <img src="image/autisme.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
+                        <div class="item">
+                            <div class="overlay">
+                                <span class="content">
+                                    <br>
                                     Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen. Effectief bij bijvoorbeeld Prikkelbaredarmsyndroom, Chronisch Vermoeidheids Syndroom, Fibromyalgie en Whiplash.
                                     <br>
                                 </span>
@@ -177,18 +201,6 @@
                                     <br>
                                 </span>
                                 <img src="image/verslaving.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
-                        <div class="item">
-                            <div class="overlay">
-                                <span class="content">
-                                    <br>
-                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij het verbeteren van gedrag door meer inzicht en controle over het eigen unieke brein.
-                                    <br>
-                                </span>
-                                <img src="image/autisme.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -214,18 +226,6 @@
                                 </span>
                                 <img src="image/verslaving.png" alt="">
 
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
-                        <div class="item">
-                            <div class="overlay">
-                                <span class="content">
-                                    <br>
-                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij het verbeteren van gedrag door meer inzicht en controle over het eigen unieke brein.
-                                    <br>
-                                </span>
-                                <img src="image/autisme.png" alt="">
                             </div>
                         </div>
                     </div>
