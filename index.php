@@ -188,7 +188,7 @@
                                     Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen. Effectief bij bijvoorbeeld Prikkelbaredarmsyndroom, Chronisch Vermoeidheids Syndroom, Fibromyalgie en Whiplash.
                                     <br>
                                 </span>
-                                <img src="image/lichamelijke_klachten.png" alt="">
+                                <img src="image/pds.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -212,7 +212,7 @@
                                     Me Therapy gebruikt de methode Therapeutisch Virtuele Maagband (TVM) bij overgewicht en obesitas. Het grote voordeel is dat het eetgedrag blijvend wordt veranderd, omdat de onderliggende problematiek wordt aangepakt.
                                     <br>
                                 </span>
-                                <img src="image/lichamelijke_klachten.png" alt="">
+                                <img src="image/afvallen.png" alt="">
                             </div>
                         </div>
                     </div>
