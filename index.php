@@ -39,19 +39,6 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
             <ul class="navbar-nav">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                        Hulpmiddelen
-                    </a>
-                    <div class="dropdown-menu">
-                        <span class="navbar-text">
-                            In ontwikkeling zijn
-                        </span>
-                        <a class="dropdown-item" href="https://wiki.metherapy.nl">Documentatie</a>
-                        <a class="dropdown-item" href="https://online.metherapy.nl">Online therapie</a>
-                        <a class="dropdown-item" href="https://blog.metherapy.nl">Blog</a>
-                    </div>
-                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#werkwijze">Werkwijze</a>
                 </li>
@@ -66,6 +53,19 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#contact">Contact</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        Hulpmiddelen
+                    </a>
+                    <div class="dropdown-menu">
+                        <span class="navbar-text">
+                            In ontwikkeling zijn
+                        </span>
+                        <a class="dropdown-item" href="https://wiki.metherapy.nl">Documentatie</a>
+                        <a class="dropdown-item" href="https://online.metherapy.nl">Online therapie</a>
+                        <a class="dropdown-item" href="https://blog.metherapy.nl">Blog</a>
+                    </div>
                 </li>
             </ul>
         </div>
@@ -109,41 +109,39 @@
     <main>
         <section id="werkwijze" class="spacer">
             <div class="werkwijze container">
-                <div class="overlay">
-                    <div class="row">
-                        <div class="col-lg-12 text-center">
-                            <h2 class="text-center">Werkwijze</h2>
-                        </div>
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="text-center">Werkwijze</h2>
                     </div>
-                    <div class="row">
-                        <div class="col-md-12 col-lg-6">
-                            <h4 class="text-center">
-                                <a href="https://nl.wikipedia.org/wiki/Mindfulness" target="_blank" title="Wikipedia artikel over Mindfulness">
-                                    <img src="image/brain.png" alt="Hoofd">
-                                    &nbsp;
-                                    <b>
-                                        <span>
-                                            <span>Mindfulness</span>
-                                        </span>
-                                    </b>
-                                </a>
-                            </h4>
-                            <p class="text-center">Mindfulness helpt je <span class="badge badge-dark">bewust</span> te worden van wat er allemaal in je lichaam en geest gebeurt zonder er nog in te worden gezogen.</p>
-                        </div>
-                        <div class="col-md-12 col-lg-6">
-                            <h4 class="text-center">
-                                <a href="https://nl.wikipedia.org/wiki/Hypnotherapie" target="_blank" title="Wikipedia artikel over Hypnotherapie">
-                                    <img src="image/heart.png" alt="hart">
-                                    &nbsp;
-                                    <b>
-                                        <span>
-                                            <span>Hypnotherapie</span>
-                                        </span>
-                                    </b>
-                                </a>
-                            </h4>
-                            <p class="text-center">Hypnotherapie zorgt dat je via hypnose contact krijgt met <span class="badge badge-dark">onbewust</span>e processen. De trance is licht zodat je actief betrokken blijft.</p>
-                        </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 col-lg-6">
+                        <h4 class="text-center">
+                            <a href="https://nl.wikipedia.org/wiki/Mindfulness" target="_blank" title="Wikipedia artikel over Mindfulness">
+                                <img src="image/brain.png" alt="Hoofd">
+                                &nbsp;
+                                <b>
+                                    <span>
+                                        <span>Mindfulness</span>
+                                    </span>
+                                </b>
+                            </a>
+                        </h4>
+                        <p class="text-center">Mindfulness helpt je <span class="badge badge-dark">bewust</span> te worden van wat er allemaal in je lichaam en geest gebeurt zonder er nog in te worden gezogen.</p>
+                    </div>
+                    <div class="col-md-12 col-lg-6">
+                        <h4 class="text-center">
+                            <a href="https://nl.wikipedia.org/wiki/Hypnotherapie" target="_blank" title="Wikipedia artikel over Hypnotherapie">
+                                <img src="image/heart.png" alt="hart">
+                                &nbsp;
+                                <b>
+                                    <span>
+                                        <span>Hypnotherapie</span>
+                                    </span>
+                                </b>
+                            </a>
+                        </h4>
+                        <p class="text-center">Hypnotherapie zorgt dat je via hypnose contact krijgt met <span class="badge badge-dark">onbewust</span>e processen. De trance is licht zodat je actief betrokken blijft.</p>
                     </div>
                 </div>
             </div>
