@@ -174,7 +174,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij het verbeteren van gedrag door meer inzicht en controle over het eigen unieke brein.
+                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij het verbeteren van gedrag door meer inzicht, acceptatie en controle over het eigen unieke brein.
                                     <br>
                                 </span>
                                 <img src="image/autisme.png" alt="">
@@ -186,7 +186,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Integrale psycho- en hypnotherapie maakt gebruik van zowel bewuste als onbewuste processen in jezelf, waardoor klachten verminderen of verdwijnen. Effectief bij bijvoorbeeld Prikkelbaredarmsyndroom, Chronisch Vermoeidheids Syndroom, Fibromyalgie en Whiplash.
+                                    Uit wetenschappelijk onderzoek sinds 1980 blijkt dat behandeling met hypnotherapie bij PDS helpt. Het behandelprogramma 'Darmmanagement bij PDS', gebaseerd op het hypnotherapeutisch IBS-protocol van professor Peter Whorwell, wordt sinds 1996 met succes in Nederland toegepast.
                                     <br>
                                 </span>
                                 <img src="image/pds.png" alt="">
@@ -198,10 +198,10 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op.
+                                    SOLK gaat om chronische pijnklachten zoals Fibromyalgie (FM), Gegeneraliseerd pijnsyndroom, Chronische aspecifieke lage rugpijn of Chronic Low Back Pain (CLBP), Chronisch whiplash syndroom of Whiplash Associated Disorder (WAD), Somatoforme Pijnstoornis, Chronisch Vermoeidheids Syndroom (CVS of CFS, eerder ME), Complaints van Arm, Nek en Schouder (CANS, eerder RSI) en Prikkelbaredarmsyndroom (PDS of IBS).
                                     <br>
                                 </span>
-                                <img src="image/roken.png" alt="">
+                                <img src="image/lichamelijke_klachten.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -210,7 +210,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Me Therapy gebruikt de methode Therapeutisch Virtuele Maagband (TVM) bij overgewicht en obesitas. Het grote voordeel is dat het eetgedrag blijvend wordt veranderd, omdat de onderliggende problematiek wordt aangepakt.
+                                    Me Therapy kan gebruik maken van de Therapeutisch Virtuele Maagband (TVM) bij overgewicht en obesitas. Het grote voordeel van MeTherapy is dat het eetgedrag blijvend wordt veranderd, omdat de onderliggende problematiek wordt aangepakt.
                                     <br>
                                 </span>
                                 <img src="image/afvallen.png" alt="">
@@ -222,7 +222,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Vaak weet je al veel over je kwaal of klacht, maar ondanks van alles er aan gedaan te hebben, lost het probleem niet op.
+                                    Van je rookverslaving kun je in enkele sessies afkomen door belemmerende gedachten helpend te maken, passende alternatieven te onderzoeken en toe te passen wanneer je trek krijgt en visualisaties ter ondersteuning te gebruiken.
                                     <br>
                                 </span>
                                 <img src="image/roken.png" alt="">
@@ -245,20 +245,20 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-md-6 text-center">
-                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Referentie 1</q></p>
-                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Referentie 2</q></p>
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>MeTherapy heeft een opening gemaakt naar dat ik mag zijn wie ik ben. Mariëlle heeft me geleerd dat als ik zelf lekker in mijn vel zit een ander daar ook wat aan heeft.</q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>MeTherapy heeft me laten inzien dat mijn beperking niet altijd een nadeel hoeft te zijn, maar ook een kracht kan zijn, waarop ik mag bouwen en vertrouwen.</q></p>
                     </div>
                     <div class="col-md-6 text-center">
-                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Referentie 3</q></p>
-                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Referentie 4</q></p>
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Mariëlle durft te laten zien dat ze ook mens is en het bij haar ook niet allemaal makkelijk gaat. Die houding geeft mij vertrouwen en veiligheid. Blijf wie je bent!</q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>MeTherapy heeft me een stukje houvast gegeven om het zelf te kunnen doen of door het op een andere manier te durven doen.</q></p>
                     </div>
                     <div class="col-md-6 text-center">
-                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Referentie 5</q></p>
-                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Referentie 6</q></p>
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Ik heb van de therapie geleerd mijn emoties beter onder controle te houden, zelf verantwoordelijkheid te nemen voor mijn acties en me niet te laten meesleopen door mijn overtuigingen.</q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Ik heb je vriendelijkheid, humor en warmte gewaardeerd. Dat je zo goed aanvoelde wat ik nodig had. Waardoor ik me op dat moment helemaal veilig voelde. De flexibiliteit die je daarvoor nodig hebt en je doorzettingsvermogen.</q></p>
                     </div>
                     <div class="col-md-6 text-center">
-                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Referentie 7</q></p>
-                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Referentie 8</q></p>
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Mariëlle heb ik leren kennen als zeer warme, betrokken therapeute. Ik liep al 25 jaar steeds tegen dezelfde dingen aan en mede dankzij Mariëlle kan ik daar nu anders mee omgaan en spelen sommige issues zelfs geen rol meer in mijn leven. Absoluut aan te raden voor wie zaken echt aan wil pakken en een nieuwe weg wil inslaan.</q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Ik heb nu houvast om in een panieksituatie vertrouwen te hebben.</q></p>
                     </div>
                 </div>
             </div>
