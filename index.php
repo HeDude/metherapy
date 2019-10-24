@@ -378,7 +378,7 @@
                         </li>
                         <li>
                             <a href="https://www.leerparadijs.nl" target="_blank" title="Website van het Leerparadijs">
-                                <img src="image/logo-Leerparadijs.png" alt="Leerparadijs">
+                                <img src="image/logo-leerparadijs.png" alt="Leerparadijs">
                             </a>
                         </li>
                         <li>
