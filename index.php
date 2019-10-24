@@ -359,7 +359,7 @@
                         <li><a href="https://9292.nl/emmen/bushalte-geuzingerbrink" target="_blank" title="OV9292 informatie over bushalte"><b>Stadsbus <span class="badge badge-light">lijn 4</span></b></a></li>
                         <li>-----</li>
                         <li><a href="https://wa.me/31622034603" target="_blank" title="Telefoonnummer op Whatsapp"><b><i class="fa fa-whatsapp"></i> <span class="badge badge-secondary">06-22034603</span></b></a></li>
-                        <li><a href="https://mailto:info@mecoaching.nl" target="_blank" title="Mailadres"><i>info@metherapy.nl</i></a></li>
+                        <li><a href="mailto:info@metherapy.nl" target="_blank" title="Mailadres"><i>info@metherapy.nl</i></a></li>
                         <li><a href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=020879960000" target="_blank" title="Register Kamer van Koophandel"><i>KvK 02087996</i></a></li>
                     </ul>
                 </address>
