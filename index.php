@@ -47,7 +47,7 @@
                         <span class="navbar-text">
                             In ontwikkeling zijn
                         </span>
-                        <a class="dropdown-item" href="https://wiki.metherapy.nl">Encyclopedie</a>
+                        <a class="dropdown-item" href="https://wiki.metherapy.nl">Documentatie</a>
                         <a class="dropdown-item" href="https://online.metherapy.nl">Online therapie</a>
                         <a class="dropdown-item" href="https://blog.metherapy.nl">Blog</a>
                     </div>
