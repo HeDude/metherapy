@@ -174,7 +174,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij het verbeteren van gedrag door meer inzicht, acceptatie en controle over het eigen unieke brein.
+                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij meer inzicht, acceptatie en controle over het eigen unieke brein.
                                     <br>
                                 </span>
                                 <img src="image/autisme.png" alt="">
@@ -198,7 +198,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    SOLK gaat om chronische pijnklachten zoals Fibromyalgie (FM), Gegeneraliseerd pijnsyndroom, Chronische aspecifieke lage rugpijn of Chronic Low Back Pain (CLBP), Chronisch whiplash syndroom of Whiplash Associated Disorder (WAD), Somatoforme Pijnstoornis, Chronisch Vermoeidheids Syndroom (CVS of CFS, eerder ME), Complaints van Arm, Nek en Schouder (CANS, eerder RSI) en Prikkelbaredarmsyndroom (PDS of IBS).
+                                    SOLK gaat om chronische pijnklachten zoals Fibromyalgie, Gegeneraliseerd pijnsyndroom, Chronische aspecifieke lage rugpijn, Chronisch whiplash syndroom, Somatoforme Pijnstoornis, Chronisch Vermoeidheids Syndroom en Complaints van Arm, Nek en Schouder.
                                     <br>
                                 </span>
                                 <img src="image/lichamelijke_klachten.png" alt="">
