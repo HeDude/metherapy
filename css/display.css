@@ -111,10 +111,6 @@ ul
 {
 	opacity: 1;
 }
-.no-touch .zorgvraag_effect .item
-{
-    opacity: 1;
-}
 .zorgvraag_effect .item:focus .overlay
 {
 	left: -10px;
@@ -145,6 +141,10 @@ ul
 	opacity: 1;
 }
 .zorgvraag_effect .item:focus .content
+{
+	opacity: 1;
+}
+.no-touch .zorgvraag_effect .item .content
 {
 	opacity: 1;
 }
