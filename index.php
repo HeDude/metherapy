@@ -128,7 +128,7 @@
                                 </b>
                             </a>
                         </h4>
-                        <p class="text-center">Mindfulness helpt je <span class="badge badge-dark">bewust</span> te worden van wat er allemaal in je lichaam en geest gebeurt zonder er nog in te worden gezogen.</p>
+                        <p class="text-center">Mindfulness helpt je bewust te worden van wat er allemaal in je lichaam en geest gebeurt zonder er nog in te worden gezogen.</p>
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <h4 class="text-center">
@@ -142,7 +142,7 @@
                                 </b>
                             </a>
                         </h4>
-                        <p class="text-center">Hypnotherapie zorgt dat je via hypnose contact krijgt met <span class="badge badge-dark">onbewust</span>e processen. De trance is licht zodat je actief betrokken blijft.</p>
+                        <p class="text-center">Hypnotherapie zorgt dat je via hypnose contact krijgt met onbewuste processen. De trance is licht zodat je actief betrokken blijft.</p>
                     </div>
                 </div>
             </div>
