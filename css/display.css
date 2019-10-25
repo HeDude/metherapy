@@ -111,6 +111,15 @@ ul
 {
 	opacity: 1;
 }
+.zorgvraag_effect .item:focus .overlay
+{
+	left: -10px;
+	top: -10px;
+}
+.zorgvraag_effect .item:focus .overlay:before
+{
+	opacity: 1;
+}
 .zorgvraag_effect .content
 {
 	position: absolute;
@@ -131,7 +140,10 @@ ul
 {
 	opacity: 1;
 }
-.top_offset
+.zorgvraag_effect .item:focus .content
+{
+	opacity: 1;
+}.top_offset
 {
     height: 100px;
 }
@@ -149,6 +161,10 @@ ul
 {
     transform: scale(2);
 }
+#oprichter img:focus
+{
+    transform: scale(2);
+}
 #afspraak
 {
     z-index: 3;
@@ -158,6 +174,10 @@ ul
     transition: all .2s ease-in-out;
 }
 #afspraak img:hover
+{
+    transform: scale(2);
+}
+#afspraak img:focus
 {
     transform: scale(2);
 }
@@ -177,6 +197,11 @@ ul
 	text-decoration: none;
 	padding: 0 2em;
 }
+#header figcaption p:focus
+{
+	text-decoration: none;
+	padding: 0 2em;
+}
 #header img
 {
     width: 750px;
@@ -192,6 +217,11 @@ ul
     transition: all .2s ease-in-out;
 }
 #registratie img:hover
+{
+    opacity: 1;
+    transform: scale(1.5);
+}
+#registratie img:focus
 {
     opacity: 1;
     transform: scale(1.5);
