@@ -165,7 +165,7 @@
                                     Mindfulness en Hypnotherapie zullen je bewust maken van je angsten en de bronnen van stress. Je leert te ontspannen en een balans te vinden tussen actie en rust en tussen draagkracht en draaglast.
                                     <br>
                                 </span>
-                                <a href="" tabindex="1"><img src="image/angst.png" alt=""></a>
+                                <img src="image/angst.png" alt="">
                             </div>
                         </div>
                     </div>
