@@ -91,7 +91,7 @@
                         <img class="text-center" src="image/free.jpg" alt="Free"/>
                         <figcaption class="carousel-caption">
                             <h2 class="text-center">de Regie</h2>
-                            <p class="text-center">Door afstand te nemen, wordt je bewust van wat er werkelijk gebeurt en kun je de regie nemen.</p>
+                            <p class="text-center">Door afstand te nemen, wordt je je bewust van wat er werkelijk gebeurt en kun je de regie nemen.</p>
                         </figcaption>
                     </figure>
                 </div>
@@ -253,7 +253,7 @@
                         <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>MeTherapy heeft me een stukje houvast gegeven om het zelf te kunnen doen of door het op een andere manier te durven doen.</q></p>
                     </div>
                     <div class="col-md-6 text-center">
-                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Ik heb van de therapie geleerd mijn emoties beter onder controle te houden, zelf verantwoordelijkheid te nemen voor mijn acties en me niet te laten meesleopen door mijn overtuigingen.</q></p>
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Ik heb van de therapie geleerd mijn emoties beter onder controle te houden, zelf verantwoordelijkheid te nemen voor mijn acties en me niet te laten meeslepen door mijn overtuigingen.</q></p>
                         <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Ik heb je vriendelijkheid, humor en warmte gewaardeerd. Dat je zo goed aanvoelde wat ik nodig had. Waardoor ik me op dat moment helemaal veilig voelde. De flexibiliteit die je daarvoor nodig hebt en je doorzettingsvermogen.</q></p>
                     </div>
                     <div class="col-md-6 text-center">
