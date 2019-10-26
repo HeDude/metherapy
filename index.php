@@ -174,6 +174,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
+                                    <br>
                                     Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij meer inzicht, acceptatie en controle over het eigen unieke brein.
                                     <br>
                                 </span>
@@ -186,7 +187,8 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Uit wetenschappelijk onderzoek sinds 1980 blijkt dat behandeling met hypnotherapie bij PDS helpt. Het behandelprogramma 'Darmmanagement bij PDS', gebaseerd op het hypnotherapeutisch IBS-protocol van professor Peter Whorwell, wordt sinds 1996 met succes in Nederland toegepast.
+                                    <br>
+                                    Uit wetenschappelijk onderzoek blijkt dat behandeling met hypnotherapie bij PDS helpt. Het behandelprogramma 'Darmmanagement bij PDS', gebaseerd op het hypnotherapeutisch IBS-protocol van professor Peter Whorwell, wordt sinds 1996 met succes in Nederland toegepast.
                                     <br>
                                 </span>
                                 <img src="image/pds.png" alt="">
@@ -198,7 +200,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    SOLK gaat om chronische pijnklachten zoals Fibromyalgie, Gegeneraliseerd pijnsyndroom, Chronische aspecifieke lage rugpijn, Chronisch whiplash syndroom, Somatoforme Pijnstoornis, Chronisch Vermoeidheids Syndroom en Complaints van Arm, Nek en Schouder.
+                                    SOLK is een verzamelnaam voor chronische pijnklachten zonder dat er een duidelijke medische diagnose kan worden gesteld. Je kan denken aan lage rugpijn, whiplash, chronisch vermoeidheidssyndroom en fibromyalgie.
                                     <br>
                                 </span>
                                 <img src="image/lichamelijke_klachten.png" alt="">
@@ -209,6 +211,7 @@
                         <div class="item">
                             <div class="overlay">
                                 <span class="content">
+                                    <br>
                                     <br>
                                     Me Therapy kan gebruik maken van de Therapeutisch Virtuele Maagband (TVM) bij overgewicht en obesitas. Het grote voordeel van MeTherapy is dat het eetgedrag blijvend wordt veranderd, omdat de onderliggende problematiek wordt aangepakt.
                                     <br>
@@ -221,6 +224,7 @@
                         <div class="item">
                             <div class="overlay">
                                 <span class="content">
+                                    <br>
                                     <br>
                                     Van je rookverslaving kun je in enkele sessies afkomen door belemmerende gedachten helpend te maken, passende alternatieven te onderzoeken en toe te passen wanneer je trek krijgt en visualisaties ter ondersteuning te gebruiken.
                                     <br>
