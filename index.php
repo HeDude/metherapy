@@ -40,13 +40,13 @@
         <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#werkwijze">Werkwijze</a>
+                    <a class="nav-link" href="#werkwijze">Remedie</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#zorgvraag">Zorgvraag</a>
+                    <a class="nav-link" href="#zorgvraag">Verbetering</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#referentie">Referentie</a>
+                    <a class="nav-link" href="#referentie">Preview</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#registratie">Registratie</a>
@@ -76,6 +76,11 @@
 
     <header>
         <div id="header" class="container spacer">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="text-center">Eindelijk van je klachten af</h2>
+                </div>
+            </div>
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
                     <figure class="effect-oscar">
@@ -112,7 +117,7 @@
             <div class="werkwijze container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-center">Werkwijze</h2>
+                        <h2 class="text-center">Remedie</h2>
                     </div>
                 </div>
                 <div class="row">
@@ -152,7 +157,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-center">Zorgvraag</h2>
+                        <h2 class="text-center">Verbetering</h2>
                         <h3>MeTherapy is gespecialiseerd in de volgende zorgvragen:</h3>
                     </div>
                 </div>
@@ -243,7 +248,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-center">Referentie</h2>
+                        <h2 class="text-center">Preview</h2>
                         <h3>Uitspraken van cli&euml;nten over de behandeling.</h3>
                     </div>
                 </div>
