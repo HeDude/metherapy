@@ -27,7 +27,7 @@
 
     <link rel="stylesheet" href="css/main.css">
 
-    <title>MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten, afvallen en autisme in Emmen.</title>
+    <title>MeTherapy - Mindfulness & Hypnotherapie bij lichamelijke klachten (zoals PDS), afvallen, roken, angst, stress en autisme in Emmen.</title>
 </head>
 <body id="home" data-spy="scroll" data-target="#navigation_bar" data-offset="20">
     <nav id="navigation_bar" class="navbar navbar-expand-lg bg-light navbar-light fixed-top">
