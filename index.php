@@ -213,7 +213,7 @@
                                     Vaak loop je al een lange tijd met prikkelbare darmen rond, en alle klachten die eromheen zijn ontstaan.
                                     Met alleen de diagnose PDS ben je nog niet van je klachten af.
                                     Juist Hypnotherapie is bijzonder effectief in het achterhalen van de oorzaak en werkt aan alle facetten van je klachten.
-                                    Zodat je na ca. 8 of 14 sessies klachtenvrij bent en weer gaat en staat waar jij wilt!
+                                    Zodat je klachtenvrij bent en weer gaat en staat waar jij wilt!
                                     <br>
                                 </span>
                                 <img src="image/pds.png" alt="">
