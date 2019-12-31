@@ -84,28 +84,28 @@
             <div class="row">
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
                     <figure class="effect-oscar">
-                        <img src="image/innergised.jpg" alt="Ondernemendheid"/>
+                        <img src="image/innergised.jpg" alt="Zelf"/>
                         <figcaption class="carousel-caption">
                             <h2>Zelf</h2>
-                            <p class="text-center">MeTherapy staat voor tijd en aandacht voor jou en samen ontdekken we wie je werkelijk bent!</p>
+                            <p class="text-center">Jìj staat centraal tijdens elke sessie om het afgesproken doel te bereiken.</p>
                         </figcaption>
                     </figure>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
                     <figure class="effect-oscar">
-                        <img class="text-center" src="image/free.jpg" alt="Free"/>
+                        <img class="text-center" src="image/free.jpg" alt="de Regie"/>
                         <figcaption class="carousel-caption">
                             <h2 class="text-center">de Regie</h2>
-                            <p class="text-center">Door afstand te nemen, wordt je je bewust van wat er werkelijk gebeurt en kun je de regie nemen.</p>
+                            <p class="text-center">J&ograve;uw doel is bij elke klacht om opnieuw de regie op je leven te herpakken.</p>
                         </figcaption>
                     </figure>
                 </div>
                 <div class="col-12 col-sm-12 col-md-12 col-lg-4 text-center">
                     <figure class="effect-oscar">
-                        <img src="image/be.jpg" alt="Be"/>
+                        <img src="image/be.jpg" alt="Leven"/>
                         <figcaption class="carousel-caption">
                             <h2 class="text-center">in je Leven</h2>
-                            <p class="text-center">Door bewust en onbewust te focussen, komen je hart en hoofd meer in balans in je dagelijks leven.</p>
+                            <p class="text-center">Zodat je niet langer overleeft,<br/>maar leeft!</p>
                         </figcaption>
                     </figure>
                 </div>
@@ -133,7 +133,12 @@
                                 </b>
                             </a>
                         </h4>
-                        <p class="text-center">Mindfulness helpt je bewust te worden van wat er allemaal in je lichaam en geest gebeurt zonder er nog in te worden gezogen.</p>
+                        <p class="method_description text-center">
+                            Aandacht voor jezelf: wie ben ik, wat kan ik goed, wat ligt gevoelig en wat wil ik graag?
+                            Wat zijn mijn grenzen, als je ze weet kan je er duidelijk naar (leren) communiceren.
+                            Per moment leer je voelen hoe het met je is, je ademhaling hierbij bewustworden en je lichaam gewaarworden.
+                            Met als doel jezelf te zijn binnen je eigen grenzen, en trouw te blijven aan jezelf.
+                        </p>
                     </div>
                     <div class="col-md-12 col-lg-6">
                         <h4 class="text-center">
@@ -147,7 +152,17 @@
                                 </b>
                             </a>
                         </h4>
-                        <p class="text-center">Hypnotherapie zorgt dat je via hypnose contact krijgt met onbewuste processen. De trance is licht zodat je actief betrokken blijft.</p>
+                        <p class="method_description text-center">
+                            Wanneer je een eindje onderweg bent in de auto, en ineens denkt "Ben ik al hier?",
+                            ben je onbewust in trance geweest.
+                            De moderne hypnotherapie maakt gebruik van deze vorm van dagdromen.
+                            Ondanks de trance heb je tijdens het rijden steeds de controle gehad.
+                            Dat is ook zo tijdens de therapie.
+                            Jij bepaalt het einddoel en de weg er naartoe,
+                            waarbij je jouw "automatische piloot" verkent.
+                            Daardoor krijg je een keuze tussen het automatische patroon of meer gewenst gedrag.
+                            Stap voor stap krijg je zo steeds meer regie in je leven.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -167,7 +182,7 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    Mindfulness en Hypnotherapie zullen je bewust maken van je angsten en de bronnen van stress. Je leert te ontspannen en een balans te vinden tussen actie en rust en tussen draagkracht en draaglast.
+                                    Zowel Angst als Stress kunnen op allerlei manieren tot uiting komen. Therapeutisch van belang is de trigger voor de angst/stress, zoals die bij jou is ontstaan, te achterhalen. Zodat we vanuit de oorzaak kunnen werken aan je herstel!
                                     <br>
                                 </span>
                                 <img src="image/angst.png" alt="">
@@ -180,7 +195,9 @@
                                 <span class="content">
                                     <br>
                                     <br>
-                                    Hypnotherapie helpt bij mensen met autisme om de zelfwaardering te vergroten en versterkt het nemen van de regie over het eigen leven. Mindfulness - in een speciaal bij autisme passende vorm - helpt bij meer inzicht, acceptatie en controle over het eigen unieke brein.
+                                    Autisme is &eacute;&eacute;n van de vele kenmerken en kwaliteiten die jou als mens typeert.
+                                    Wanneer je meer last hebt van je autisme, dan dat het je leven verrijkt in de alledaagse bezigheden, kunnen we gaan ontdekken wat de oorzaak van de klacht is.
+                                    Zodat we vanuit de oorzaak gericht werken aan meer gemak, tevredenheid en vertrouwen in je leven!
                                     <br>
                                 </span>
                                 <img src="image/autisme.png" alt="">
@@ -193,7 +210,10 @@
                                 <span class="content">
                                     <br>
                                     <br>
-                                    Uit wetenschappelijk onderzoek blijkt dat behandeling met hypnotherapie bij PDS helpt. Het behandelprogramma 'Darmmanagement bij PDS', gebaseerd op het hypnotherapeutisch IBS-protocol van professor Peter Whorwell, wordt sinds 1996 met succes in Nederland toegepast.
+                                    Vaak loop je al een lange tijd met prikkelbare darmen rond, en alle klachten die eromheen zijn ontstaan.
+                                    Met alleen de diagnose PDS ben je nog niet van je klachten af.
+                                    Juist Hypnotherapie is bijzonder effectief in het achterhalen van de oorzaak en werkt aan alle facetten van je klachten.
+                                    Zodat je na ca. 8 of 14 sessies klachtenvrij bent en weer gaat en staat waar jij wilt!
                                     <br>
                                 </span>
                                 <img src="image/pds.png" alt="">
@@ -205,7 +225,8 @@
                             <div class="overlay">
                                 <span class="content">
                                     <br>
-                                    SOLK is een verzamelnaam voor chronische pijnklachten zonder dat er een duidelijke medische diagnose kan worden gesteld. Je kan denken aan lage rugpijn, whiplash, chronisch vermoeidheidssyndroom en fibromyalgie.
+                                    SOLK is een verzamelnaam voor chronische pijnklachten zonder dat er een duidelijke medische diagnose kan worden gesteld.
+                                    Je kan denken aan lage rugpijn, whiplash, chronisch vermoeidheidssyndroom en fibromyalgie.
                                     <br>
                                 </span>
                                 <img src="image/lichamelijke_klachten.png" alt="">

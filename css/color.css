@@ -30,6 +30,10 @@ a:hover
 	background: rgba(100, 100, 100, 0.5);
 	color: #ffffff;
 }
+.method_description
+{
+    background-color: rgba(0, 30, 0, .6)
+}
 .werkwijze
 {
 	color: #ffffff;

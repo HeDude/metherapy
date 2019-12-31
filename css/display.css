@@ -25,11 +25,16 @@ ul
 }
 .werkwijze
 {
+    background-repeat: no-repeat;
 	background-size: cover;
 }
 .werkwijze h4
 {
 	margin: 0.5em 0 0 0;
+}
+.werkwijze img
+{
+    opacity: 0.6;
 }
 .navbar-brand img
 {
