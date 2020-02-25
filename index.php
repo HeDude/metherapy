@@ -299,7 +299,7 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="text-center">Registratie</h2>
-                        <h3>Voor vergoeding, kwaliteitsbewaking, <a href="https://www.hypnotherapie.nl/klachten/" target="_blank" title="Beroep op klachtenfunctionaris">klachten</a> of <a href="https://www.scag.nl/diensten/reglement-geschillencommissie/" target="_blank" title="Beroep op geschillencommissie">geschillen</a>:</h3>
+                        <h3>Voor <a href="https://www.hypnotherapie.nl/faq-items/wordt-hypnotherapie-vergoed/">vergoeding</a>, kwaliteitsbewaking, <a href="https://www.hypnotherapie.nl/klachten/" target="_blank" title="Beroep op klachtenfunctionaris">klachten</a> of <a href="https://www.scag.nl/diensten/reglement-geschillencommissie/" target="_blank" title="Beroep op geschillencommissie">geschillen</a>:</h3>
                     </div>
                     <hr>
                 </div>
