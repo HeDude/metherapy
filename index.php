@@ -290,6 +290,14 @@
                         <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Mariëlle heb ik leren kennen als zeer warme, betrokken therapeute. Ik liep al 25 jaar steeds tegen dezelfde dingen aan en mede dankzij Mariëlle kan ik daar nu anders mee omgaan en spelen sommige issues zelfs geen rol meer in mijn leven. Absoluut aan te raden voor wie zaken echt aan wil pakken en een nieuwe weg wil inslaan.</q></p>
                         <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Ik heb nu houvast om in een panieksituatie vertrouwen te hebben.</q></p>
                     </div>
+                    <div class="col-md-6 text-center">
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Wat ik verder waardeer(de) is dat ik mij begrepen en veilig voelde. Er was en werd voldoende tijd gemaakt voor mijn verhaal te vertellen. </q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Mariëlle is een hele vriendelijke en eerlijke vrouw. Ze is verantoordelijk, komt haar afspraken na en heeft haar zaken op orde. Ik vond het fijn dat er voldoende tijd werd gemaakt voor mijn verhaal en ik goede adviezen hierop terug kreeg.</q></p>
+                    </div>
+                    <div class="col-md-6 text-center">
+                        <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>De hele ervaring van hypnotherapie is voor mij een enorm leerproces geweest. Het belangrijkste punt wat ik heb geleerd, is om naar mijn lichaam te luisteren. Ik weet nu wat ik nodig heb en ben en hoe ik goed voor mijzelf moet zorgen.</q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q> Hypnotherapie is voor mij een groot leerproces geweest en heeft mij heel goed geholpen. Ik zou Me Therapy zeker aanraden.</q></p>
+                    </div>
                 </div>
             </div>
         </article>
