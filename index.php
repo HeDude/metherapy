@@ -60,11 +60,11 @@
                     </a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="doc/flyer_pds.pdf" target="_blank">Folder PDS</a>
+                        <a class="dropdown-item" href="https://elo.metherapy.nl" target="_blank">Online therapie</a>
                         <span class="navbar-text">
                             In ontwikkeling zijn
                         </span>
                         <a class="dropdown-item" href="https://wiki.metherapy.nl" target="_blank">Documentatie</a>
-                        <a class="dropdown-item" href="https://online.metherapy.nl" target="_blank">Online therapie</a>
                         <a class="dropdown-item" href="https://blog.metherapy.nl" target="_blank">Blog</a>
                     </div>
                 </li>
