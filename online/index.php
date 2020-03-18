@@ -1,5 +1,5 @@
 <?php
 /* This will give an error. Note the output
  * above, which is before the header() call */
-header('Location: https://wiki.metherapy.nl/index.php/Online');
+header('Location: https://elo.metherapy.nl/');
 exit;
