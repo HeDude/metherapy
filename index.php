@@ -37,6 +37,24 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
             <span class="navbar-toggler-icon"></span>
         </button>
+
+        <img height="256" alt="Coronavirus SARS-CoV-2" src="image/corona.png" style="cursor:zoom-in" onclick="document.getElementById('corona').style.display='block'">
+        <div id="corona" class="w3-modal w3-animate-opacity">
+            <div class="w3-modal-content w3-card-4">
+                <header class="w3-container w3-purple">
+                    <span onclick="document.getElementById('corona').style.display='none'" class="w3-button w3-large w3-display-topright">&times;</span>
+                    <br/><h6>Het Coronavirus (COVID-19)</h6>
+                </header>
+                <div class="w3-container">
+                    <p>Door alle ontwikkelingen rondom het Corona virus is het juist nu van belang dat je terecht kan voor alle vragen, onzekerheden, stressgevoelens en angsten. Me Therapy lost dit op door Online Therapie aan te bieden. Dit is conform de richtlijnen van zowel de NBVH, de RBCZ als SSZ.</p>
+                    <p>Online therapie is even wennen en anders dan fysiek bij elkaar in de ruimte te zijn, maar de ervaring wijst uit dat het snel went. En dan is het fijn dat je in je veilige en vertrouwde omgeving kan blijven zonder risico's of gevaar voor je eigen gezondheid. Terwijl je gewoon rustig vanuit je luie stoel kunt werken aan je klachten, help je daarmee je geluk en gezondheid stap voor stap verder. Zodat je, ondanks de roerige tijd, toch weer de regie herpakt over je leren en je leven.</p>
+                </div>
+                <footer class="w3-container w3-purple">
+                    <p><a style="color:white;" href="https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19" target="_blank">Voor de actuele stand van zaken rondom het Coronavirus</a></p>
+                </footer>
+            </div>
+        </div>
+
         <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
