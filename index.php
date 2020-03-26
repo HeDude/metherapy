@@ -39,7 +39,7 @@
         </button>
 
         <img height="256" alt="Coronavirus SARS-CoV-2" src="image/corona.png" style="cursor:zoom-in" onclick="document.getElementById('corona').style.display='block'">
-        <div id="corona" class="w3-modal w3-animate-opacity">
+        <div id="corona" class="w3-modal w3-animate-opacity" style="display:block">
             <div class="w3-modal-content w3-card-4">
                 <header class="w3-container w3-purple">
                     <span onclick="document.getElementById('corona').style.display='none'" class="w3-button w3-large w3-display-topright">&times;</span>
