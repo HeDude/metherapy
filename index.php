@@ -79,6 +79,7 @@
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="doc/flyer_pds.pdf" target="_blank">Folder PDS</a>
                         <a class="dropdown-item" href="https://elo.metherapy.nl" target="_blank">Online therapie</a>
+                        <a class="dropdown-item" href="doc/autisme_onderzoek.pdf" target="_blank">Autisme Onderzoek</a>
                         <span class="navbar-text">
                             In ontwikkeling zijn
                         </span>
