@@ -46,8 +46,11 @@
                     <br/><h6>Het Coronavirus (COVID-19)</h6>
                 </header>
                 <div class="w3-container">
-                    <p>Door alle ontwikkelingen rondom het Corona virus is het juist nu van belang dat je terecht kan voor alle vragen, onzekerheden, stressgevoelens en angsten. Me Therapy lost dit op door Online Therapie aan te bieden. Dit is conform de richtlijnen van zowel de NBVH, de RBCZ als SSZ.</p>
+                    <p><i>Door alle ontwikkelingen rondom het Corona virus is het juist nu van belang dat je terecht kan voor alle vragen, onzekerheden, stressgevoelens en angsten. Me Therapy lost dit op door Online Therapie aan te bieden. Dit is conform de richtlijnen van zowel de NBVH, de RBCZ als SSZ.</i></p>
+                    <br/>
                     <p>Online therapie is even wennen en anders dan fysiek bij elkaar in de ruimte te zijn, maar de ervaring wijst uit dat het snel went. En dan is het fijn dat je in je veilige en vertrouwde omgeving kan blijven zonder risico's of gevaar voor je eigen gezondheid. Terwijl je gewoon rustig vanuit je luie stoel kunt werken aan je klachten, help je daarmee je geluk en gezondheid stap voor stap verder. Zodat je, ondanks de roerige tijd, toch weer de regie herpakt over je leren en je leven.</p>
+                    <br/>
+                    <p><b>Inmiddels wordt er weer live gewerkt. Op 1,5 meter afstand en met de nodige hygiënische maatregelen. Tevens wordt de afspraak bij verkoudheids- en/ of griepverschijnselen geannuleerd.</b></p>
                 </div>
                 <footer class="w3-container w3-purple">
                     <p><a style="color:white;" href="https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19" target="_blank">Voor de actuele stand van zaken rondom het Coronavirus</a></p>
