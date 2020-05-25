@@ -100,7 +100,7 @@
         <div id="header" class="container spacer">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="text-center">Eindelijk van je klachten af</h2>
+                    <h2 class="text-center">Eindelijk van je klachten af, NO CURE NO PAY</h2>
                 </div>
             </div>
             <div class="row">
