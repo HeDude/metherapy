@@ -5,7 +5,7 @@
     <meta name="Description" CONTENT="MeTherapy Bargeres Emmen">
     <meta name="robots" content="MeTherapy, Coaching, Therapie, Hypnotherapie, Mindfulness, PDS, Prikkelbaredarmsyndroom, SOLK, Autisme, Afvallen, Verslaving, Roken, Angst, Stress, Klachten, Bargeres, Emmen" />
     <meta name="googlebot" content="MeTherapy, Coaching, Therapie, Hypnotherapie, Mindfulness, PDS, Prikkelbaredarmsyndroom, SOLK, Autisme, Afvallen, Verslaving, Roken, Angst, Stress, Klachten, Bargeres, Emmen" />
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="image/favicon//ms-icon-144x144.png">
     <meta name="theme-color"             content="#ffffff">
