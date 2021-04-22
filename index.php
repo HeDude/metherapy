@@ -66,7 +66,7 @@
                     <a class="nav-link" href="#zorgvraag">Verbetering</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#referentie">Preview</a>
+                    <a class="nav-link" href="#referentie">Review</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#registratie">Registratie</a>
@@ -290,7 +290,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-center">Preview</h2>
+                        <h2 class="text-center">Review</h2>
                         <h3>Uitspraken van cli&euml;nten over de behandeling.</h3>
                     </div>
                 </div>
@@ -313,7 +313,7 @@
                     </div>
                     <div class="col-md-6 text-center">
                         <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>Wat ik verder waardeer(de) is dat ik mij begrepen en veilig voelde. Er was en werd voldoende tijd gemaakt voor mijn verhaal te vertellen. </q></p>
-                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Mariëlle is een hele vriendelijke en eerlijke vrouw. Ze is verantoordelijk, komt haar afspraken na en heeft haar zaken op orde. Ik vond het fijn dat er voldoende tijd werd gemaakt voor mijn verhaal en ik goede adviezen hierop terug kreeg.</q></p>
+                        <p class="referentie_klant_2 referentie_klant_2_driehoek"><q>Mariëlle is een hele vriendelijke en eerlijke vrouw. Ze is verantwoordelijk, komt haar afspraken na en heeft haar zaken op orde. Ik vond het fijn dat er voldoende tijd werd gemaakt voor mijn verhaal en ik goede adviezen hierop terug kreeg.</q></p>
                     </div>
                     <div class="col-md-6 text-center">
                         <p class="referentie_klant_1 referentie_klant_1_driehoek text-light"><q>De hele ervaring van hypnotherapie is voor mij een enorm leerproces geweest. Het belangrijkste punt wat ik heb geleerd, is om naar mijn lichaam te luisteren. Ik weet nu wat ik nodig heb en ben en hoe ik goed voor mijzelf moet zorgen.</q></p>
